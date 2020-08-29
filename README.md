@@ -2,7 +2,7 @@
 
 ## I'm a Developer
 - :fire: I'm currently learning everything about JS
-- :zap: 2021 Goals: Contribute more to Open Source projects and 
+- :zap: 2021 Goals: Contribute more to Open Source projects 
 - :tent: Fun fact: I love to camp and gym
 
 <br/>
