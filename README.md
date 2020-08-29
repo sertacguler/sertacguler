@@ -1,7 +1,7 @@
 ### Hi there, I'm Sertac Guler
 
 ## I'm a Developer
-- :fire: I'm currently learning everything about JS
+- :fire: I'm currently learning JS frameworks
 - :zap: 2021 Goals: Contribute more to Open Source projects 
 - :tent: Fun fact: I love to camp and gym
 
