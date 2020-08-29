@@ -9,4 +9,4 @@
 
 ### Languages and Tools:
 
-[![aaa](<img alt="asd" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png/>)]
+<img  width="22" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png"/>
