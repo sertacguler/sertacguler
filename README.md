@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align ="left" alt="Sertac | LinkedIn" width="22px" src="https://www.linkedin.com/in/sertac-guler/"/>][LinkedIn]
+[<img align ="left" alt="LinkedIn" width="22px" src="https://www.linkedin.com/in/sertac-guler/"/>][LinkedIn]
 
 <br/>
 
