@@ -3,7 +3,6 @@
 ## I'm a Software Developer
 - :fire: I'm currently learning JS frameworks
 - :zap: My Goals: Contributing to Open Source projects 
-- :tent: Fun fact: I love to camp and gym
 
 <br/>
 
