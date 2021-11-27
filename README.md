@@ -1,4 +1,4 @@
-### Hi there, I'm Sertac Guler
+### Hi there 👋, I'm Sertac Guler
 
 ## I'm a Software Developer
 - :fire:  I'm currently learning JS frameworks
