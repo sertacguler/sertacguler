@@ -2,7 +2,7 @@
 
 ## I'm a Software Developer
 - :fire:  I'm currently learning JS frameworks
-- :zap:  I have experience with Spring Boot, React js, Angular,
+- :zap:  I have experience with Java, Spring Boot, React js, Angular, Oracle, DB2, PostgreSQL, Mercurial, StarTeam, Redmine, Bugzilla
 
 <br/>
 
