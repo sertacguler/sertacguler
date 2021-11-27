@@ -3,6 +3,7 @@
 ## I'm a Software Developer
 - :fire: I'm currently learning JS frameworks
 - :zap: My Goals: Contributing to Open Source projects 
+- : : I have experience with Spring Boot, React js, Angular,
 
 <br/>
 
