@@ -1,7 +1,6 @@
-### Hi there 👋, I'm Sertac Guler
+### Hi there 👋,
 
-## I'm a Software Developer
-- :fire:  I'm currently learning JS frameworks
+## I'm a Full Stack Developer
 - :zap:  I have experience with that Languages and Tools: Java, Spring Boot, React js, Angular, Oracle, DB2, PostgreSQL, RedisGraph, Docker, Mercurial, Git, StarTeam, Redmine, Bugzilla
 
 [![Linkedin Badge](https://img.shields.io/badge/-sertacguler-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sertac-guler/)](https://www.linkedin.com/in/sertac-guler/) 
